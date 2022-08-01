@@ -1,8 +1,0 @@
-Zvolená varianta - ZETA Sniffer paketov
-Autor: Jakub Zaukolec - xzauko00
-
-Implementované všetky časti zadania aj poriadne otestované viz. dokumentácia.
-
-príklad spustenia:
-sudo ./ipk-sniffer -i               vypiše všetky možne rozhrania
-sudo ./ipk-sniffer -i eth0 -t       odchyti TCP paket na rozhrani eth0
